@@ -1,0 +1,90 @@
+body {
+  font-size: 16px;
+  color: black;
+  font-family: sans-serif;
+}
+
+#header-nav {
+  border-radius: 0px;
+  border: 0px;
+  background-color: #9E9E9E;
+}
+
+h1{
+  color: black;
+}
+
+p{
+  color: black;
+  text-align: justify;
+}
+
+#pollo1{
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#res1{
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#pescado1{
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#divPollo{
+  background-color: #9E9E9E;
+}
+
+#divRes{
+  background-color: #9E9E9E;
+}
+
+#divPescado{
+  background-color: #9E9E9E;
+}
+
+#menu{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#copy{
+  color: white;
+}
+
+#texto{
+ color: white;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.panel-footer {
+  margin-top: 20px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #222;
+  border-top: 0;
+}
+
