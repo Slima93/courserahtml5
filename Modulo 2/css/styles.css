@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+p {
+  border: 3px solid black;
+  background-color: #908E8D;
+  width: 95%;
+  height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Arial;
+  color: black;
+  text-align: justify;
+}
+
+span {
+  border: 3px solid black;
+}
+
+#pollo {
+  text-align: right;
+  height: 5px;
+  width: 97.5%;
+  color: black;
+}
+
+#res {
+  text-align: right;
+  height: 5px;
+  width: 97.5%;
+  color: white;
+}
+
+#pescado {
+  text-align: right;
+  height: 5px;
+  width: 97.5%;
+  color: black;
+}
+
+#pollo2{
+  background-color: #EA91C3;
+}
+
+#res2{
+  background-color: #F7343D;
+}
+
+#pescado2{
+  background-color: #E8F470;
+}
